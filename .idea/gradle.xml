@@ -13,6 +13,15 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/database-core" />
+            <option value="$PROJECT_DIR$/datastore-core" />
+            <option value="$PROJECT_DIR$/favorite-feature" />
+            <option value="$PROJECT_DIR$/home-feature" />
+            <option value="$PROJECT_DIR$/login-feature" />
+            <option value="$PROJECT_DIR$/network-core" />
+            <option value="$PROJECT_DIR$/notification-feature" />
+            <option value="$PROJECT_DIR$/registration-feature" />
+            <option value="$PROJECT_DIR$/shop-feature" />
           </set>
         </option>
       </GradleProjectSettings>

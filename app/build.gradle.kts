@@ -55,6 +55,13 @@ android {
 }
 
 dependencies {
+    implementation(project(":home-feature"))
+    implementation(project(":favorite-feature"))
+    implementation(project(":login-feature"))
+    implementation(project(":shop-feature"))
+    implementation(project(":notification-feature"))
+    implementation(project(":registration-feature"))
+
     implementation(Dependencies.Core.coreKtx)
     implementation(Dependencies.Kotlin.serialization)
     implementation(Dependencies.Lifecycle.runtime)
