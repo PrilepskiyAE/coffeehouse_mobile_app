@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "coffeehouse mobile app"
 include(":app")
- 
